@@ -2,6 +2,7 @@
 # Graph-Semantic Tonemapping and LocHDR-HC200 Dataset 
 
 Copyright Abhishek Goswami, Erwan Bernard
+
 Copyright DxO Labs
 
 Test images in the repository are taken from the [MIT-Adobe FiveK Dataset (Expert E)](https://data.csail.mit.edu/graphics/fivek/)
