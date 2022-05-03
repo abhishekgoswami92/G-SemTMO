@@ -1,0 +1,6 @@
+LocHDR LR catalog - Folder consists of Lightroom enhancement catalogs for the Local HDR dataset. 
+The selected 781 image names (from MIT-Adobe FiveK) can be found in the 'Data\Preprocessed Dataset\Namelists\781_names_LocHDR.npy' file.
+The first 100/781 images correspond to '100 images.lrcat' while the last 681/781 images correspond to the '681 images.lrcat' files.
+
+The HC200 dataset is a subset of LocHDR. The selected 200 image names can be found in the 
+'Data\Preprocessed Dataset\Namelists\200_names_HC200.npy' file.

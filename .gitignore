@@ -1,0 +1,22 @@
+/images
+*.html
+
+
+/processed
+
+/runs
+/training_log
+/*_log
+
+
+# python cache file
+__pycache__
+
+# python virtual environnement
+/venv
+
+# IDE
+/.idea
+/.vscode
+
+
