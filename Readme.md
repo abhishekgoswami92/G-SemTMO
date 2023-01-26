@@ -74,7 +74,7 @@ choice.
 ## 3 Inference
 
 - `Gsemtmo_infer.py` runs the inference.
-- The script doesn't use a custom dataloader. Pre-processed data is loaded from disk and passed on to the network for inference. In case
+- The script uses a custom dataloader. Pre-processed data is loaded from disk and passed on to the network for inference. In case
 a pretrained network is to be used for inference, use the Preprocess_dataset_Gsemtmo.py to create the binary files for the test set of
 images.
 - The inference script also saves for each image - a plot with tonecurves observed per semantic label. This part can be further tweaked to
